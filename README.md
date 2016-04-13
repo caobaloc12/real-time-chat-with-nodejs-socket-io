@@ -47,3 +47,8 @@ $(function () {
 			}
 		};
 });
+```
+## Captures
+![Capture 1](/captures/capture-1.png)
+
+![Capture 2](/captures/capture-2.png)
